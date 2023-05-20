@@ -22,5 +22,5 @@ c) Vérifie si le carré avec les valeurs saisies représente le carré magique
 * Pep/8 Assembly (https://computersystemsbook.com/4th-edition/pep8/)
 
 ## Utilisation
-* Ouvrir le projet 'nom_du_ficher.pep' dans Pep/8 Assembly.
+* Ouvrir le fichier 'conversion.pep' ou 'carreMagique.pep' dans Pep/8 Assembly.
 * Cliquez sur 'Terminal I/O', ensuite sur 'Assemble' et 'Run Source'.
