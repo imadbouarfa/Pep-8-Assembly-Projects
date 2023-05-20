@@ -19,10 +19,8 @@ c) Vérifie si le carré avec les valeurs saisies représente le carré magique
 [@Shaker, Imad](https://gitlab.info.uqam.ca/bouarfa.imad)
 
 ## Technologies
-* IntelliJ IDEA (https://www.jetbrains.com/idea/)
+* Pep/8 Assembly (https://computersystemsbook.com/4th-edition/pep8/)
 
 ## Utilisation
-* Ouvrir le projet dans votre IDE
-* Build et exécuter le projet à partir de la classe "Main.java"
-* Choisissez l'un des fichiers à exécuter se trouvant déjà à la racine du projet.
-* Un fichier "résultats" est fournis afin de vérifier l'exactitude des tests.
+* Ouvrir le projet 'nom_du_ficher.pep' dans Pep/8 Assembly.
+* Cliquez sur 'Terminal I/O', ensuite sur 'Assemble' et 'Run Source'.
