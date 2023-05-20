@@ -8,7 +8,7 @@ et 36. Le programme retourne un texte correspondant à la représentation de ce 
 base spécifiée.  
   
 Carré Magique: Conception d'un programme qui  
-a) lit un nombre n : taille de matrice n x n. Validez n : une valeur positive de 2 à
+a) Lit un nombre n : taille de matrice n x n. Valide n : une valeur positive de 2 à
 10.  
 b) Saisit les valeurs de 1 à n dans un ordre quelconque. L’ordre d’entrée des valeurs définie
 le positionnement des valeurs dans le carré.  
