@@ -17,7 +17,7 @@ c) Vérifie si le carré avec les valeurs saisies représente le carré magique
 
 
 ## Authors
-[@Shaker, Imad](https://gitlab.info.uqam.ca/bouarfa.imad)
+[@Bouarfa, Imad](https://gitlab.info.uqam.ca/bouarfa.imad)
 
 ## Technologies
 * Pep/8 Assembly (https://computersystemsbook.com/4th-edition/pep8/)
